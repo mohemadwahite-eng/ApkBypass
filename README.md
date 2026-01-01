@@ -1,2 +1,0 @@
-# ApkBypass
-ApkBypassFreeFiremax
